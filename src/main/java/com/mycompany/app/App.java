@@ -5,7 +5,10 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World! this is the output after CI we have done this through Jenkins";
+    private static final String MESSAGE = "Hello World!";
+    
+    System.out.println("Hello from CI!");
+
 
     public App() {}
 
