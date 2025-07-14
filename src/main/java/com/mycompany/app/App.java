@@ -7,8 +7,6 @@ public class App {
 
     private static final String MESSAGE = "Hello World!";
     
-    System.out.println("Hello from CI!");
-
 
     public App() {}
 
